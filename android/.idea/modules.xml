@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AwesomeProject.iml" filepath="$PROJECT_DIR$/AwesomeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/progress-bar-android/android/react-native-community_progress-bar-android.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/progress-bar-android/android/react-native-community_progress-bar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/progress-view/android/react-native-community_progress-view.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/progress-view/android/react-native-community_progress-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-html-to-pdf/android/react-native-html-to-pdf.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-html-to-pdf/android/react-native-html-to-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-pdf/android/react-native-pdf.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-pdf/android/react-native-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-picker/picker/android/react-native-picker_picker.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-picker/picker/android/react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-screens/android/react-native-screens.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-screens/android/react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" filepath="$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

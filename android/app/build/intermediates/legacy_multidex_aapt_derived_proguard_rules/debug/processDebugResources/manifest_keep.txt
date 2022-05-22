@@ -1,0 +1,4 @@
+# Referenced at C:\Users\Deval\Desktop\AwesomeProject\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:28
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Deval\Desktop\AwesomeProject\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:28
+-keep class com.awesomeproject.MainApplication { <init>(); }
